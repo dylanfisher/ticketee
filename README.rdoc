@@ -1,2 +1,2 @@
 == README
-This is the repository for my 'Ticketee' project as I follow along the [Rails 4 in Action](http://www.manning.com/bigg2/) book.
+This is the repository for my 'Ticketee' project as I follow along the Rails 4 in Action http://www.manning.com/bigg2/ book.
